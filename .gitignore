@@ -1,0 +1,4 @@
+# Ignorar arquivos de banco de dados locais
+*.db
+*.sqlite
+*.sqlite3
